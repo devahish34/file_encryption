@@ -1,0 +1,31 @@
+{"properties": [
+  {
+    "name": "x-rapidapi-host",
+    "type": "java.lang.String",
+    "description": "A description for 'x-rapidapi-host'"
+  },
+  {
+    "name": "app.jwt.secret",
+    "type": "java.lang.String",
+    "description": "Secret key used for JWT token generation and validation."
+  },
+  {
+    "name": "app.jwt.expiration",
+    "type": "java.lang.Integer",
+    "description": "JWT token expiration time in seconds."
+  },
+  {
+    "name": "app.frontend.url",
+    "type": "java.lang.String",
+    "description": "URL of the frontend application for OAuth2 redirect."
+  },
+  {
+    "name": "jwt.audience",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.audience'"
+  },
+   { "name": "jwt.issuer",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.issuer'"
+  }
+]}
